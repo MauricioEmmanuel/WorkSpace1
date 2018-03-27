@@ -1,11 +1,11 @@
 # WorkSpace1 Morse Code
 
 
-Mauricio Emmanuel Resendiz Hurtado
-mauri_rezen10@hotmail.com
+//Mauricio Emmanuel Resendiz Hurtado
+//mauri_rezen10@hotmail.com
 
-Instructions
+//Instructions
 
-1.- Firts one, you must be installed Netbeans IDE 8.2 for run this proyect
-2.- Unzip the proyect and import in your work space
-3.- Only run the proyect, in the command line apear a menu whit the options, only choose one 
+//1.- Firts one, you must be installed Netbeans IDE 8.2 for run this proyect
+//2.- Unzip the proyect and import in your work space
+//3.- Only run the proyect, in the command line apear a menu whit the options, only choose one 
