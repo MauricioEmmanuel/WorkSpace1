@@ -1,4 +1,4 @@
-# WorkSpace1 Morse Code, Roman numbers and POO
+# WorkSpace1 Morse Code, Roman numbers and Geometric Figures
 
 
 Mauricio Emmanuel Resendiz Hurtado
