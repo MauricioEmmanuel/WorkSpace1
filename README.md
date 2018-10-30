@@ -1,4 +1,4 @@
-# WorkSpace1 Morse Code, Roman numbers
+# WorkSpace1 Morse Code, Roman numbers and POO
 
 
 //Mauricio Emmanuel Resendiz Hurtado
@@ -8,5 +8,5 @@
 
 //1.- Firts one, you must be installed Netbeans IDE 8.2 for run this proyect
 //2.- Unzip the proyect and import in your work space
-//3.- Only run the proyect, in the command line apear a menu whit the options, only choose one 
+//3.- Only run the proyect and in the command line apear a menu whit the options, only choose one 
 or enter required values 
